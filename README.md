@@ -4,9 +4,9 @@
 <br>
 
 🗺️ Project Task Division<br><br>
-In our project to develop an interactive map for Ethiopia’s regions, zones, and woredas, with dynamic form generation and AI/ML-based data visualization, the following team members are assigned specific roles and responsibilities:
+In our project to develop an interactive map for Ethiopia’s regions, zones, and woredas, with dynamic form generation and AI/ML-based data visualization, the following team members are assigned specific roles and responsibilities:<br><br>
 <br>
-📚 Salhadin – Frontend Interface and Figma Design<br>
+📚 Salhadin – Frontend Interface and Figma Design<br><br>
 Responsibilities:<br>
 🎨 Design the overall user interface (UI) and user experience (UX) for the web application.<br>
 ✏️ Create wireframes, mockups, and prototypes using Figma.<br>
