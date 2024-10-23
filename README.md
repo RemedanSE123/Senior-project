@@ -1,10 +1,5 @@
 # Senior-project
-
-
-<br>
-
-🗺️ Project Task Division<br><br>
-In our project to develop an interactive map for Ethiopia’s regions, zones, and woredas, with dynamic form generation and AI/ML-based data visualization, the following team members are assigned specific roles and responsibilities:<br><br>
+🗺️ Project Task Division In our project to develop an interactive map for Ethiopia’s regions, zones, and woredas, with dynamic form generation and AI/ML-based data visualization, the following team members are assigned specific roles and responsibilities:<br><br>
 <br>
 📚 Salhadin – Frontend Interface and Figma Design<br><br>
 Responsibilities:<br>
